@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['drone']
+
+roboflow:
+  workspace: programmer-ipp-whbp4
+  project: objects-7u0vy-bz3kb
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/programmer-ipp-whbp4/objects-7u0vy-bz3kb/dataset/2

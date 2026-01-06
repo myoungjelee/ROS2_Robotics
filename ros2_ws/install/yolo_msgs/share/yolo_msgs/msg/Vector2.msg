@@ -1,0 +1,1 @@
+/home/mjzizou/Robot/ros2_ws/src/yolo_ros/yolo_msgs/msg/Vector2.msg

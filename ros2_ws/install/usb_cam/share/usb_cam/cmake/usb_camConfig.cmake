@@ -1,0 +1,1 @@
+/home/mjzizou/Robot/ros2_ws/build/usb_cam/ament_cmake_core/usb_camConfig.cmake
